@@ -1,0 +1,1 @@
+This bash file is based off of https://github.com/surajp/fzf-sfdx. Install instructions can be found there. This allows for fuzzy search of sfxd commands in addition to sfxd aliases. 
